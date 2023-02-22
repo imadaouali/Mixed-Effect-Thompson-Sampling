@@ -24,7 +24,7 @@ meTS experiments on synthetic logistic bandit problems
 - `meTS-Log-MovieLens.ipynb`
 meTS experiments on MovieLens dataset with logistic rewards
 
-`ratings.dat`
-MovieLens 1M dataset from https://grouplens.org/datasets/movielens/1m/ 
+- `ratings.dat`
+[MovieLens 1M dataset](https://grouplens.org/datasets/movielens/1m/)
 
 [imad-email]: mailto:imadaouali9@gmail.com 
