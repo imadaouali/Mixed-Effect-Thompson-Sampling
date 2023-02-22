@@ -1,4 +1,6 @@
-# Mixed-Effect-Thompson-Sampling
+# [Mixed-Effect-Thompson-Sampling](https://arxiv.org/abs/2205.15124?context=cs)
+
+Experiments for the paper [Mixed-Effect-Thompson-Sampling](https://arxiv.org/abs/2205.15124?context=cs)
 
 [Imad AOUALI](https://www.linkedin.com/in/imad-aouali/) (Criteo), Branislav Kveton (Amazon), Sumeet Katariya (Amazon)
 
