@@ -1,6 +1,6 @@
 # Mixed-Effect-Thompson-Sampling
 
-[Imad AOUALI](https://www.linkedin.com/in/imad-aouali/)
+[Imad AOUALI](https://www.linkedin.com/in/imad-aouali/) (Criteo), Branislav Kveton (Amazon), Sumeet Katariya (Amazon)
 
 ## Abstract
 
