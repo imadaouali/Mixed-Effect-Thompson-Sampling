@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Run all mixed-effect TS experiments overnight. Saves plots to plots/ and logs to run_all_overnight.log.
+# Run all mixed-effect TS experiments overnight. Saves plots to plots/ and logs to run_all_experiments.log.
 # Usage: ./run_all_overnight.sh   (run from mixed_effect_ts/ or repo root)
 
 set -e
@@ -9,7 +9,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 mkdir -p plots
 
-LOG="run_all_overnight.log"
+LOG="run_all_experiments.log"
 echo "=== Started at $(date) ===" | tee "$LOG"
 
 run_one() {

@@ -71,7 +71,7 @@ python experiments/run_log_movielens.py --save plots/
 
 Use `--save <dir>` to write regret plots as PNGs; otherwise plots are shown interactively.
 
-**Run all experiments overnight:** from `mixed_effect_ts/`, run `./run_all_overnight.sh`. This runs the four experiments in sequence, saves plots to `plots/`, and appends output to `run_all_overnight.log`. If one fails, the rest still run.
+**Run all experiments overnight:** from `mixed_effect_ts/`, run `./run_all_experiments.sh`. This runs the four experiments in sequence, saves plots to `plots/`, and appends output to `run_all_experiments.log`. If one fails, the rest still run.
 
 ## License
 
